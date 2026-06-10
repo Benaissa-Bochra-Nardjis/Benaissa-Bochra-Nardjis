@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Nardjis
 
-<!--
-**Benaissa-Bochra-Nardjis/Benaissa-Bochra-Nardjis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-year CS Student at ESI-SBA
+💻 Currently learning backend development and exploring the CS world  
+🧩 I enjoy solving problems and thinking through logic — it's what drew me to CS in the first place  
+🔍 Always curious, always looking to discover what CS has to offer next
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I work with
+- **Languages:** Java, JavaScript, SQL
+- **Backend:** Node.js, Express.js 
+- **Database:** MySQL, MongoDB
+- **Tools:** Git, GitHub
+  
+## 💼 Projects
+- 🍽️ **FeedMe** — Community food discovery platform | Team project · Backend dev
