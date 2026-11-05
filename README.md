@@ -1,6 +1,6 @@
 ## Hi, I'm Nardjis
 
-🎓 2nd-year CS Student at ESI-SBA
+🎓 3rd-year CS Student at ESI-SBA
 💻 Currently learning backend development and exploring the CS world  
 🧩 I enjoy solving problems and thinking through logic — it's what drew me to CS in the first place  
 🔍 Always curious, always looking to discover what CS has to offer next
